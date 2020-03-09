@@ -1,13 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Alex Hsu's GitHub
 
-You can use the [editor on GitHub](https://github.com/runninghsus/runninghsus.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a second year Ph.D. candidate in the [Yttri lab](https://labs.bio.cmu.edu/yttri/) at Carnegie Mellon University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Research Projects
+Behavioral-Segmentation of Open-field in DeepLabCut
 ```markdown
 Syntax highlighted code block
 
@@ -23,7 +19,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[B-SOiD GitHub](https://github.com/YttriLab/B-SOID) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
