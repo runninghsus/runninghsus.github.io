@@ -49,7 +49,7 @@
 		background-size: $background-size;
 	}
 
-	@mixin gradient-background-small($tint: false, $opacity: 0.25, $stop1: 25%, $stop2: 50%) {
+	@mixin gradient-background-small($tint: false, $opacity: 0.9, $stop1: 25%, $stop2: 80%) {
 		@include gradient-background($tint, $opacity, $stop1, $stop2, 135deg);
 	}
 
